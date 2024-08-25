@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[32625],{32625:function(e,r,n){n.r(r),n.d(r,{Renderer:function(){return s}});class s{render(e){this.app.scene.triList.forEach(r=>{r.render(e)})}constructor(e){this.app=e}}}}]);

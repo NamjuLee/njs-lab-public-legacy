@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[96782],{96782:function(e,r,a){a.r(r),a.d(r,{Renderer:function(){return s}});class s{render(e){this.app.camera&&this.app.camera.updateViewMatrix(),this.app.scene.geometries.forEach(r=>{r.render(e)})}constructor(e){this.app=e}}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[50513],{50513:function(e,r,t){t.r(r),t.d(r,{ViewActiveCommand:function(){return i}});class i{Resize(e,r){this.viewControllerWrapper.viewController.NUIWrapper.Resize(e,r)}constructor(e){this.viewControllerWrapper=e}}}}]);

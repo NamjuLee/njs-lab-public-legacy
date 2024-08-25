@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[59027],{59027:function(e,c,s){s.r(c),s.d(c,{GeometryBase:function(){return n}});var t=s(98594);class n{constructor(){this.vec=new t.NVector3(0,0,0)}}}}]);

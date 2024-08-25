@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[35695],{35695:function(e,s,t){t.r(s),t.d(s,{Scene:function(){return c}});class c{add(e){this.geometries.push(e)}constructor(e){this.geometries=[],this.NGL3dApp=e}}}}]);

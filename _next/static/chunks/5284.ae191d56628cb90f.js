@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5284],{5284:function(e,s,n){n.r(s),n.d(s,{Modal:function(){return c}});class c{preRender(){}constructor(e){this.mesh=e}}}}]);

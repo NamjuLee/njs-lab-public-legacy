@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[24162],{24162:function(s,t,c){c.r(t),c.d(t,{Scene:function(){return n}});class n{constructor(s){this.triList=[],this.NGL3dApp=s}}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[90512],{90512:function(e,s,n){n.r(s),n.d(s,{GeometryBase:function(){return t}});class t{render(){}constructor(e){this.scene=e,this.scene.add(this)}}}}]);
